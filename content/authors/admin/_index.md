@@ -8,12 +8,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sydneybgarcia
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/sydney-garcia-679ab7246
+    display:
+      header: true
 organizations: []
 education:
   courses:
