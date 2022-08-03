@@ -1,7 +1,8 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: experience
+widget_id: experience
 headless: true
+weight: 180
 ---
+UC BERKELEY
