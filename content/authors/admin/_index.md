@@ -16,12 +16,12 @@ social:
 organizations: []
 education:
   courses:
-    - course: PhD in Social Psychology
-      institution: Princeton University, expected spring 2027
+    - course: PhD in Social Psychology, expected spring 2027
+      institution: Princeton University
       year: ""
-    - course: BA in Psychology with Honors
+    - course: BA in Psychology with Honors, 2020
       institution: University of California, Berkeley
-      year: 2020
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
