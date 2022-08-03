@@ -1,36 +1,24 @@
 ---
-# An instance of the Featured widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
-
-# This file represents a page section.
+widget_id: PUBLICATIONS
 headless: true
-
-# Order that this section appears on the page.
 weight: 80
-
 title: Featured Publications
-subtitle: ''
-
+subtitle: ""
 content:
-  # Page type to display. E.g. post, talk, publication...
   page_type: publication
-  # Choose how many pages you would like to display (0 = all pages)
   count: 0
-  # Filter on criteria
   filters:
-    author: ''
-    category: ''
-    publication_type: ''
-    tag: ''
-  # Page order: descending (desc) or ascending (asc) date.
+    author: ""
+    category: ""
+    publication_type: ""
+    tag: ""
   order: desc
-
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
   view: 3
 ---
+Monroy, M., **Garcia, S.B**., Mendoza-Denton, R., Keltner, D. (2021). The Dynamics of Coping, Positive Emotions, and Well-being: Evidence from Latinx Immigrant Farmworkers and College Students During a Time of Political Strife. *Emotion.*
+
+Zieve, G. G., Armstrong, C. A., Richardson, I. M., **Garcia, S. B.**, & Harvey, A. G. (2022). Measuring 
+memory for treatment using patient conceptualizations of clinical vignettes: A pilot psychometric study 
+in the context of cognitive therapy for depression. *Cognitive Therapy and Research.*
